@@ -9,7 +9,7 @@ http://thefoodies.surge.sh/
 ## How it is made 
 MERN Tech stack (MongoDB, Express, React, NodeJS)
 
-Full stack app that leverages the yelp api to fetch data and renders it to the front end through the use of react components. App was made by passion and enthusiasm, I changed the app from using react redux to react hooks for better readability
+Full stack app that leverages the yelp api to fetch data and renders it to the front end through the use of react components. App was made by passion and enthusiasm, I changed the app from using react redux to react hooks for better readability. the app is fully responsive from mobile to desktop screen size.
 
 ## Optimization
 Due to the different CORS errors that I was experiencing because of the Yelp api, I decided to build a back end for this app where I was using the node server to make fetch requests to the api and retrieve the desired data back. 
