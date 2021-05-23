@@ -1,5 +1,5 @@
 # thefoodies
-A full web stack app that allows a user to search for any food store, restaurant, fast food joint or even take out and returns the different locations, rating and address.
+A full stack web app that allows a user to search for any food store, restaurant, fast food joint or even take out and returns the different locations, rating and address.
 
 ## link to project
 http://thefoodies.surge.sh/
